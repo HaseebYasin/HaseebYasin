@@ -1,101 +1,18 @@
-Hi, I'm Haseeb Yasin 👋
-WordPress & WooCommerce Developer | Custom Plugin Dev | Python Automation | AI Integration
-Show Image
-
-🧑‍💻 About Me
-
-🌐 8+ Years of WordPress & WooCommerce Development
-🔌 Built 4 Custom WordPress Plugins used in real production
-📦 Delivered 100+ WordPress & WooCommerce websites
-🐍 Python Automation & Web Scraping Specialist
-🤖 AI Integration using OpenAI API
-🛒 50+ WooCommerce stores with Stripe & PayPal integration
-📍 Based in Lahore, Pakistan — Open to Remote Work
-🌍 Available for: USA | UK | Canada | UAE | Saudi Arabia | Qatar
+# 💫 About Me:
+🌐 8+ Years of WordPress & WooCommerce Development 🔌 Built 4 Custom WordPress Plugins used in real production 📦 Delivered 100+ WordPress & WooCommerce websites 🐍 Python Automation & Web Scraping Specialist 🤖 AI Integration using OpenAI API 🛒 50+ WooCommerce stores with Stripe & PayPal integration 📍 Based in Lahore, Pakistan — Open to Remote Work 🌍 Available for: USA | UK | Canada | UAE | Saudi Arabia | Qatar
 
 
-🛠️ Tech Stack
-WordPress & eCommerce
-Show Image
-Show Image
-Show Image
-Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-AI & Automation
-Show Image
-SEO Tools
-Show Image
-Show Image
-Show Image
-Show Image
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haseeb-yasin/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BpIfhWlTMSH207yD%2F71HhEA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haseebyasin8783@gmail.com) 
 
-🚀 Public Projects
-🔄 WooCommerce Product Scraper
-Scrapes product data from Amazon & AliExpress and imports directly into WooCommerce in one click.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HaseebYasin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HaseebYasin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HaseebYasin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Tech: Python, Selenium, WooCommerce REST API, MySQL
-🔗 View Repository
+---
+[![](https://komarev.com/ghpvc/?username=HaseebYasin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-🔌 WordPress SEO Manager Plugin
-Full on-page SEO management from WP dashboard — no Yoast or RankMath needed.
-
-Tech: PHP, WordPress Plugin API, JavaScript, CSS
-🔗 View Repository
-
-
-🔍 WordPress Backlink Checker Plugin
-One-click backlink audit displayed inside the WordPress admin panel.
-
-Tech: PHP, Moz API, AJAX, WordPress Plugin API
-🔗 View Repository
-
-
-🤖 AI Product Description Generator
-Auto-generates SEO-optimized product descriptions and meta tags using OpenAI API.
-
-Tech: PHP, OpenAI API, WooCommerce Hooks, JavaScript
-🔗 View Repository
-
-
-🛒 WooCommerce Store Starter Kit
-Complete eCommerce store — Stripe, PayPal, SEO configured and mobile responsive.
-
-Tech: WordPress, WooCommerce, Stripe API, PayPal API, Yoast SEO
-🔗 View Repository
-
-
-🔒 Private Work — Client Confidential
-
-Most of my production work is in private repositories due to client confidentiality.
-
-
-🔌 Custom WordPress Plugin Suite — SEO Manager, Page Builder, Backlink Checker, Product Scraper
-🛒 50+ WooCommerce stores with Stripe & PayPal payment integration
-🤖 AI-powered content automation workflows using OpenAI API
-🐍 Multi-platform Python product scraping tools for eCommerce
-
-Code review available on request — contact via LinkedIn or email for a private walkthrough.
-
-📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HaseebYasin&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=39d353&icon_color=39d353" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebYasin&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=39d353" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HaseebYasin&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353" />
-</p>
-
-📫 Connect With Me
-Show Image
-Show Image
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaseebYasin&label=Profile+Views&color=39d353&style=for-the-badge" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
