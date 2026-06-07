@@ -1,79 +1,71 @@
-# Hi, I'm Haseeb Yasin 👋
+<h1 align="center">Hi, I'm Haseeb Yasin 👋</h1>
+<p align="center">
+  <b>WordPress & WooCommerce Developer &nbsp;|&nbsp; Custom Plugin Dev &nbsp;|&nbsp; Python Automation &nbsp;|&nbsp; AI Integration</b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0C447C?style=flat&labelColor=E6F1FB" />
+  <img src="https://img.shields.io/badge/Sites%20Built-100%2B-27500A?style=flat&labelColor=EAF3DE" />
+  <img src="https://img.shields.io/badge/Custom%20Plugins-4%20Built-3C3489?style=flat&labelColor=EEEDFE" />
+  <img src="https://img.shields.io/badge/Remote-USA%20%7C%20UK%20%7C%20Canada%20%7C%20Gulf-633806?style=flat&labelColor=FAEEDA" />
+</p>
 
-### WordPress & WooCommerce Developer | Custom Plugin Dev | Python Automation | AI Integration
+🔧 What I Do
 
-🌍 Open to Remote Work — USA, UK, Canada & Gulf
-🔧 8+ Years of WordPress & WooCommerce Experience
-🔌 Built 4 Custom WordPress Plugins for real businesses
-🐍 Python Automation & Web Scraping Specialist
-📦 100+ WordPress & WooCommerce Websites Delivered
-🤖 AI Integration using OpenAI API
+🌐 Build custom WordPress & WooCommerce websites for businesses in USA, UK, Canada & Gulf
+🔌 Develop custom WordPress plugins — SEO Manager, Page Builder, Backlink Checker, Product Scraper
+🐍 Build Python automation tools — web scraping, product importers, eCommerce automation
+🤖 Integrate AI (OpenAI API) into WordPress for auto-content, SEO meta, product descriptions
+📈 Run technical SEO audits using SEMrush, Ahrefs & Google Search Console
 
----
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
+WordPress & PHP
+Show Image
+Show Image
+Show Image
+Frontend
+Show Image
+Show Image
+Show Image
+Show Image
+Automation & Backend
+Show Image
+Show Image
+Show Image
+SEO Tools
+Show Image
+Show Image
+Show Image
+Show Image
 
-**WordPress & PHP**
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+🚀 Public Portfolio Projects
+ProjectDescriptionTech StackWooCommerce Product ScraperScrapes Amazon & AliExpress in 1 click, imports to WooCommercePython, WooCommerce REST APIWordPress SEO Manager PluginFull on-page SEO from WP dashboard without YoastPHP, WordPress Plugin APIBacklink Checker PluginOne-click backlink audit from WordPress adminPHP, Moz APIAI Product Description GeneratorAuto-generates SEO product descriptions via OpenAIPHP, OpenAI API, WooCommerceWooCommerce Store StarterFull store setup with payments, SEO & responsive designWordPress, WooCommerce, Stripe
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+🔒 Private Work (Client Confidential)
 
-**Automation & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+Most of my production work is stored in private repositories due to client confidentiality and company IP agreements. This includes:
 
-**SEO Tools**
-Yoast SEO | SEMrush | Ahrefs | Moz | Google Analytics | Google Search Console
+🔌 Custom WordPress Plugin Suite (SEO Manager, Page Builder, Backlink Checker, Product Scraper)
+🛒 50+ WooCommerce stores with Stripe & PayPal payment integration
+🤖 AI-powered content automation workflows using OpenAI API
+🐍 Multi-platform Python product scraping tools for eCommerce
 
----
+Code review is available upon request during the hiring process.
+Reach out via LinkedIn or email to arrange a private walkthrough.
 
-### 🔒 Professional Work (Private Repositories)
 
-> Most of my production work is in **private repositories** due to client
-> confidentiality and company IP agreements. This includes:
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaseebYasin&show_icons=true&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebYasin&layout=compact&hide_border=true&title_color=185FA5" />
+</p>
 
-- 🔌 Custom WordPress SEO Manager Plugin (used in production)
-- 🔌 Custom WordPress Page Builder Plugin (client-branded)
-- 🔍 One-Click Backlink Checker Plugin
-- 🐍 Multi-Platform Product Scraper (Amazon, AliExpress → WooCommerce)
-- 🤖 AI-powered content automation workflows (OpenAI API)
-- 🛒 50+ WooCommerce stores with payment gateway integrations
+📫 Connect With Me
+Show Image
+Show Image
 
-> **Available for code review upon request during the hiring process.**
-> Please reach out via LinkedIn or email to arrange a private demo.
-
----
-
-### 🚀 Public Portfolio Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [WooCommerce Product Scraper](https://github.com/YOUR_USERNAME/woocommerce-product-scraper) | Scrapes Amazon/AliExpress in 1 click | Python, WooCommerce API |
-| [WordPress SEO Manager Plugin](https://github.com/YOUR_USERNAME/wordpress-seo-manager-plugin) | Custom SEO management from WP dashboard | PHP, WordPress |
-| [Backlink Checker Plugin](https://github.com/YOUR_USERNAME/wordpress-backlink-checker) | One-click backlink audit inside WordPress | PHP, API Integration |
-| [AI Product Description Generator](https://github.com/YOUR_USERNAME/ai-woo-description-generator) | Auto-generate SEO product descriptions | PHP, OpenAI API |
-| [WooCommerce Store Starter](https://github.com/YOUR_USERNAME/woocommerce-store-starter) | Full store setup with payments & SEO | WordPress, WooCommerce |
-
----
-
-### 📊 GitHub Stats
-
-![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-yasin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haseebyasin8783@email.com)
-
-> 💼 Open to remote WordPress, WooCommerce & Plugin Development roles
-> 🌍 USA | UK | Canada | UAE | Saudi Arabia | Qatar
-> 📩 DM me on LinkedIn or email for private code demos
+💼 Open to remote WordPress, WooCommerce & Plugin Development roles
+🌍 USA  |  UK  |  Canada  |  UAE  |  Saudi Arabia  |  Qatar
+📩 DM on LinkedIn or email for private code demos
