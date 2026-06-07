@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @HaseebYasin
-- 👀 I’m interested in Web Development
-- 🌱 I’m Wordpress certified developer
-- 💞️ I’m looking to collaborate on CRM System
-- 📫 You can reach me out on my email
+# Hi, I'm Haseeb Yasin 👋
 
-<!---
-HaseebYasin/HaseebYasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### WordPress & WooCommerce Developer | Custom Plugin Dev | AI Automation
+
+🌍 Open to Remote Work — USA, UK, Canada & Gulf
+🔧 8+ Years of WordPress & WooCommerce Experience
+🔌 Built 4 Custom WordPress Plugins used by real businesses
+🐍 Python Automation & Web Scraping Specialist
+📦 100+ WordPress & WooCommerce Websites Delivered
